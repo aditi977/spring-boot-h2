@@ -1,2 +1,2 @@
 # spring-boot-react
-testing git automation
+testing git automation with sample app
