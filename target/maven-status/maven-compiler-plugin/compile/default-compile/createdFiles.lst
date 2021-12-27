@@ -1,0 +1,4 @@
+com\aditi\sampleapp\repo\ClientRepository.class
+com\aditi\sampleapp\controller\ClientsController.class
+com\aditi\sampleapp\domain\Client.class
+com\aditi\sampleapp\SampleappApplication.class
