@@ -1,2 +1,3 @@
 # spring-boot-h2
-sample spring boot application with H2 db (in-memory)
+- Sample Spring Boot application with H2 db (in-memory)
+- Demonstrates **layered architecture** that is characteristic to Spring applications
